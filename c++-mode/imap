@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: #include <map>
+# key: imap
+# --
+#include <map>
+$0

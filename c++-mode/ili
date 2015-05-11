@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: #include <list>
+# key: ili
+# --
+#include <list>
+$0
