@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: c++ header guard
+# key: guard
+# --
+// -*-c++-*-
+#ifndef ${1:HEADER_GUARD}
+#define $1
+$0
+
+
+
+#endif
